@@ -10,8 +10,7 @@
       </a>
       <br>
       <a href="mailto:siddharth2.yt@gmail.com">
-        <img src="https://img.icons8.com/color/24/000000/gmail-new.png" alt="email icon" style="vertical-align:middle;"/>
-        <span style="vertical-align:middle;">siddharth2.yt@gmail.com</span>
+        <img src="https://img.shields.io/badge/Email-siddharth2.yt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
       </a>
     </td>
   </tr>
