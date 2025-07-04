@@ -5,6 +5,7 @@
   </a>
 </p>
 
+<!-- Text at Top Left -->
 #### A Full-Stack Developer
 
 - ⚙️ Tech: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`, `.py`
