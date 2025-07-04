@@ -1,10 +1,9 @@
 <table width="100%">
   <tr>
     <td align="left" valign="top">
-      <b>Siddharth-Prabhakar/README.md</b>
-      <br>
+      <b>Siddharth-Prabhakar/README.md</b><br>
       <h4>A Full-Stack Developer</h4>
-      <h4>-⚙️ Tech: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`, `.py`</h4>
+      <h4>- ⚙️ Tech: <code>.php</code>, <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.svg</code>, <code>.psd</code>, <code>.ai</code>, <code>.py</code></h4>
     </td>
     <td align="right" valign="top">
       <a href="https://www.linkedin.com/in/siddharthprabhakar-tech/" target="_blank">
@@ -13,5 +12,3 @@
     </td>
   </tr>
 </table>
-
-
