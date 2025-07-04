@@ -8,6 +8,8 @@
       <a href="https://www.linkedin.com/in/siddharthprabhakar-tech/" target="_blank">
         <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+      <br>
+      <a href="mailto:siddharth2.yt@gmail.com">siddharth2.yt@gmail.com</a>
     </td>
   </tr>
 </table>
