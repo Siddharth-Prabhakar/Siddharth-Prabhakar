@@ -8,13 +8,13 @@
 <!--<a href="https://medium.com">
     <img src="https://img.shields.io/badge/Website-medium-red?style=flat-square">
 </a>  -->
-<a href="cv drive here">
+<a href="mailto: siddharthprabhakar.yt@gmail.com">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/siddharthprabhakar-tech/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="Siddharth2.yt@gmail.com">
+<a href="mailto: siddharthprabhakar.yt@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <!-- <a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
@@ -31,9 +31,10 @@
 
 </p>
 
+- 📖 🇮🇳 Pursuing a B.Tech in Computer Science and Engineering at South Asian University.
 - 🌱 Currently exploring Deep Learning, Computer Vision, and Large Language Models (LLMs).
 - 👥 I’m looking forward to collaborating with other content creators.
-- 📖 🇮🇳 Pursuing a B.Tech in Computer Science and Engineering at South Asian University.
+
 ----
 
 <details>
