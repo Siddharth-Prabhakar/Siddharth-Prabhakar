@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/siddharthprabhakar-tech/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="siddharthprabhakar.yt@gmail.com">
+<a href="Siddharth2.yt@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <!-- <a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
@@ -31,12 +31,9 @@
 
 </p>
 
-- 🌱 I’m currently exploring the domains of Deep Learning, Computer Vision, and LLMs
-- 👯 I’m looking forward to collaborating with other content creators.
-- 🥅 2024 Goals: Learn more about working on a video-based dataset
-- ⚡ Fun fact: I love to work on Microcontroller devices.
-- 📖 🇵🇰 Doing a Bachelor's in Electrical Engineering from Habib University.
-
+- 🌱 Currently exploring Deep Learning, Computer Vision, and Large Language Models (LLMs).
+- 👥 I’m looking forward to collaborating with other content creators.
+- 📖 🇮🇳 Pursuing a B.Tech in Computer Science and Engineering at South Asian University.
 ----
 
 <details>
