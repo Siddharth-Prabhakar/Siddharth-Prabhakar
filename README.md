@@ -23,7 +23,7 @@
 
 <br/> 
 
-<a href="https://github.com/Afsah-Hyder">
+<a href="https://github.com/Siddharth-Prabhakar">
     <img src="https://github-stats-alpha.vercel.app/api?username=Siddharth-Prabhakar&cc=22272e&width=500px&tc=9745F5&ic=fff&bc=0000">
 </a>
 
